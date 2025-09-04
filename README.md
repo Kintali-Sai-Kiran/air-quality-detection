@@ -4,7 +4,7 @@ IoT-based system for real-time air quality monitoring using NodeMCU ESP8266, MQ-
 Cloud data pipeline built on ThingSpeak with Python ML models for predictive analysis.
 
 ## Documentation
-📄 [Project Report (PDF)](docs/IoT_Project_1.pdf)
+📄 [Project Report (PDF)](docs/airquality.pdf)
 
 ## Technologies
 - NodeMCU ESP8266
